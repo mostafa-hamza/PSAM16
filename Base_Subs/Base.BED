@@ -1,0 +1,7 @@
+*Saphire 8.0.9 
+BASE                    =
+* Name                  , Descriptions                                                                                                            
+HPI                     , High Pressure Injection                                                                                                 
+INIT-EV                 ,                                                                                                                         
+RECIRC                  , Piggy-Back Cooling                                                                                                      
+RT                      , Reactor Trip System                                                                                                     

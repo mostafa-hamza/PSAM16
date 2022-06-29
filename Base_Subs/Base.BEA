@@ -1,0 +1,7 @@
+*Saphire 8.0.9 
+BASE                    =
+*  Name                 ,AltName                  ,Typ ,Sys ,Fail,Loc ,CompId  ,Train,Attributes                                                                                     ,Is Template,Template Name  ,Use TemplateFlags
+HPI                     , HPI                     , DE ,    ,    ,    ,        ,     , Y, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N,  ,                         , F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, 
+INIT-EV                 , INIT-EV                 ,    ,    ,    ,    ,        ,     , Y, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N,  ,                         , F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, 
+RECIRC                  , RECIRC                  , DE ,    ,    ,    ,        ,     , Y, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N,  ,                         , F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, 
+RT                      , RT                      , DE ,    ,    ,    ,        ,     , Y, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N, N,  ,                         , F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, 

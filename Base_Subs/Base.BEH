@@ -1,0 +1,11 @@
+*Saphire 8.0.9 
+BASE                    =
+* Event, Model Type, Desc./ Shaping Factor, Distrib. Type/ PSF, Probability/%, Multiplier, Event Notes
+HPI                     , RANDOM, , N
+^EOS
+INIT-EV                 , RANDOM, , N
+^EOS
+RECIRC                  , RANDOM, , N
+^EOS
+RT                      , RANDOM, , N
+^EOS

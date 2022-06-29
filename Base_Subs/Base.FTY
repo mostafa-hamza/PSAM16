@@ -1,0 +1,6 @@
+BASE, HPI=
+^EOS
+BASE, RECIRC=
+^EOS
+BASE, RT=
+^EOS

@@ -1,0 +1,6 @@
+* PROBABILITY HEADER
+* Name          , CalcType,  UncType, Prob, Lambda, Tau, UncValue, UncCorr, MissionT, Flag, UncValue2
+* CLASS HEADER
+* Name,  Group, CompType, CompId, System, Location, FailMode, Train, Init, Att1,..,Att16
+* CLASS PROBABILITY HEADER
+* CalcType,  UncType, Prob, Lambda, Tau, UncValue, UncCorr, MissionT, Flag, UncValue2
