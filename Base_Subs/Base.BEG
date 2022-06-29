@@ -1,6 +1,9 @@
 *Saphire 8.0.9 
 * Name                  , Grade
+AUTO-FAIL               ,  
 HPI                     ,  
 INIT-EV                 ,  
+MAN-FAIL                ,  
+MECH-FAIL               ,  
 RECIRC                  ,  
 RT                      ,  

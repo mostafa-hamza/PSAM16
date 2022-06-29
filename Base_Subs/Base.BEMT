@@ -1,6 +1,9 @@
 *Saphire 8.0.9 
 *  Name                 ,Template Name           ,Use TemplateFlags, ModelType, PhaseType
+AUTO-FAIL               ,                         , T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, F, F, F, F, F, F, F, F, F, F, F, F, RANDOM                  ,                         
 HPI                     ,                         , F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, RANDOM                  ,                         
 INIT-EV                 ,                         , F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, RANDOM                  ,                         
+MAN-FAIL                ,                         , T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, F, F, F, F, F, F, F, F, F, F, F, F, RANDOM                  ,                         
+MECH-FAIL               ,                         , T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, F, F, F, F, F, F, F, F, F, F, F, F, RANDOM                  ,                         
 RECIRC                  ,                         , F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, RANDOM                  ,                         
 RT                      ,                         , F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, RANDOM                  ,                         

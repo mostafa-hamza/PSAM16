@@ -1,7 +1,10 @@
 *Saphire 8.0.9 
 BASE                    =
 * Name                  , Alt. Name             , Alt. Descriptions                                                                                                       , A
+AUTO-FAIL               , AUTO-FAIL               , Automatic Trip Signal Failure                                                                                           , A
 HPI                     , HPI                     , High Pressure Injection                                                                                                 , A
 INIT-EV                 , INIT-EV                 ,                                                                                                                         , A
+MAN-FAIL                , MAN-FAIL                , Manual Trip Signal Failure                                                                                              , A
+MECH-FAIL               , MECH-FAIL               , Control Rod Driving Mechanism Mechanical Failure                                                                        , A
 RECIRC                  , RECIRC                  , Piggy-Back Cooling                                                                                                      , A
 RT                      , RT                      , Reactor Trip System                                                                                                     , A

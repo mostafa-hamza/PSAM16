@@ -1,7 +1,10 @@
 *Saphire 8.0.9 
 BASE                    =
 * Name                  , Alt. Name             , Alt. Descriptions                                                                                                            , A, Analysis Type           , Phase Type              
+AUTO-FAIL               ,                                                                                                                         , A, RANDOM                  ,                         
 HPI                     ,                                                                                                                         , A, RANDOM                  ,                         
 INIT-EV                 ,                                                                                                                         , A, RANDOM                  ,                         
+MAN-FAIL                ,                                                                                                                         , A, RANDOM                  ,                         
+MECH-FAIL               ,                                                                                                                         , A, RANDOM                  ,                         
 RECIRC                  ,                                                                                                                         , A, RANDOM                  ,                         
 RT                      ,                                                                                                                         , A, RANDOM                  ,                         
