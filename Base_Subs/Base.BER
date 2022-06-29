@@ -1,0 +1,10 @@
+*Saphire 8.0.9 
+BASE                    =
+* Name  , Type, Model, Staggered, Separator, Detail Lev, Fail Criteria, Analysis Type           , Phase Type
+* ^FailEVs
+* evID, evName
+* evID, evName
+* ....
+* ^FactorEVs
+* evNames, ...
+* ^EOS

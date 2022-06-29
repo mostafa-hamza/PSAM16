@@ -1,0 +1,6 @@
+*Saphire 8.0.9 
+*  Name                 ,Template Name           ,Use TemplateFlags, ModelType, PhaseType
+HPI                     ,                         , F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, RANDOM                  ,                         
+INIT-EV                 ,                         , F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, RANDOM                  ,                         
+RECIRC                  ,                         , F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, RANDOM                  ,                         
+RT                      ,                         , F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, F, RANDOM                  ,                         

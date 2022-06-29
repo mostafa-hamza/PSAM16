@@ -1,0 +1,7 @@
+*Saphire 8.0.9 
+BASE                    =
+* Name                  , Descriptions                                                                                                            , Analysis Type           , Phase Type              
+HPI                     ,                                                                                                                         , RANDOM                  ,                         
+INIT-EV                 ,                                                                                                                         , RANDOM                  ,                         
+RECIRC                  ,                                                                                                                         , RANDOM                  ,                         
+RT                      ,                                                                                                                         , RANDOM                  ,                         
