@@ -1,1 +1,3 @@
 BASE=
+RT                      , Reactor Trip System                                                                                                     
+SIG-FAIL                , Trip Signal Failure                                                                                                     

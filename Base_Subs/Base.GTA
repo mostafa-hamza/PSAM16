@@ -1,2 +1,4 @@
 BASE=
 *  Name                 , Type , Alternate Name
+RT                      , OR   , RT                      
+SIG-FAIL                , AND  , SIG-FAIL                
