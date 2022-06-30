@@ -1,2 +1,5 @@
 BASE=
 *  Name                 , Type , Alternate Name
+HPI                     , OR   , HPI                     
+RECIRC                  , OR   , RECIRC                  
+RT                      , OR   , RT                      

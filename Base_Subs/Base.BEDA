@@ -2,6 +2,8 @@
 BASE                    =
 * Name                  , Alt. Name             , Alt. Descriptions                                                                                                       , A
 HPI                     , HPI                     , High Pressure Injection                                                                                                 , A
+HPI0                    , HPI0                    , High Pressure Injection Split Fraction                                                                                  , A
 INIT-EV                 , INIT-EV                 ,                                                                                                                         , A
 RECIRC                  , RECIRC                  , Piggy-Back Cooling                                                                                                      , A
+RECIRC0                 , RECIRC0                 , Piggy-Back Cooling                                                                                                      , A
 RT                      , RT                      , Reactor Trip System                                                                                                     , A

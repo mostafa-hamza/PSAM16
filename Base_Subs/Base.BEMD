@@ -2,6 +2,8 @@
 BASE                    =
 * Name                  , Descriptions                                                                                                            , Analysis Type           , Phase Type              
 HPI                     ,                                                                                                                         , RANDOM                  ,                         
+HPI0                    ,                                                                                                                         , RANDOM                  ,                         
 INIT-EV                 ,                                                                                                                         , RANDOM                  ,                         
 RECIRC                  ,                                                                                                                         , RANDOM                  ,                         
+RECIRC0                 ,                                                                                                                         , RANDOM                  ,                         
 RT                      ,                                                                                                                         , RANDOM                  ,                         

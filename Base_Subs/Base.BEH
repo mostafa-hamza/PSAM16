@@ -3,9 +3,13 @@ BASE                    =
 * Event, Model Type, Desc./ Shaping Factor, Distrib. Type/ PSF, Probability/%, Multiplier, Event Notes
 HPI                     , RANDOM, , N
 ^EOS
+HPI0                    , RANDOM, , N
+^EOS
 INIT-EV                 , RANDOM, , N
 ^EOS
 RECIRC                  , RANDOM, , N
+^EOS
+RECIRC0                 , RANDOM, , N
 ^EOS
 RT                      , RANDOM, , N
 ^EOS
